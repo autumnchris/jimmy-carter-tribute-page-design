@@ -11,3 +11,7 @@ Inspired by the [Tribute Page](https://www.freecodecamp.org/learn/2022/responsiv
 * HTML5
 * [Normalize.css](http://necolas.github.io/normalize.css)
 * [Google Fonts](https://fonts.google.com)
+
+## Demo
+
+View project demo at [https://autumnchris.github.io/jimmy-carter-tribute-page-design/](https://autumnchris.github.io/jimmy-carter-tribute-page-design).
