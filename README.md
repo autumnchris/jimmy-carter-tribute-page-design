@@ -14,4 +14,4 @@ Inspired by the [Tribute Page](https://www.freecodecamp.org/learn/2022/responsiv
 
 ## Demo
 
-View project demo at [https://autumnchris.github.io/jimmy-carter-tribute-page-design/](https://autumnchris.github.io/jimmy-carter-tribute-page-design).
+View project demo at [https://autumnchris.github.io/jimmy-carter-tribute-page-design](https://autumnchris.github.io/jimmy-carter-tribute-page-design).
