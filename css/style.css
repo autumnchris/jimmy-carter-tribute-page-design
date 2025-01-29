@@ -76,11 +76,10 @@ a:hover,
 a:active,
 a:focus {
   color: #896200;
-  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:focus,
