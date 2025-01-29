@@ -1,0 +1,37 @@
+/* STYLES FOR PAGE'S MAIN CONTENT */
+
+.subtitle {
+  font-size: 1.4rem;
+}
+
+/* Image styles */
+.img-div {
+  margin: 50px auto;
+  max-width: 300px;
+}
+
+.img-div img {
+  border: 8px solid #896200;
+  padding: 2px;
+}
+
+.img-div figcaption {
+  color: hsl(0, 0%, 100%);
+  font-size: 0.8rem;
+  font-style: italic;
+  line-height: 1.3;
+  padding-top: 10px;
+  text-align: center;
+}
+
+/* Article styles */
+.card {
+  background: hsl(0, 0%, 100%);
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 20px 30px;
+}
+
+.card p {
+  line-height: 1.6;
+}
